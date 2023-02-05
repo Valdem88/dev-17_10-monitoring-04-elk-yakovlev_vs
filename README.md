@@ -59,7 +59,7 @@ Filebeat следует сконфигурировать для отправки
 
      - [docker-compose.yml](mystack/docker-compose.yml)
 
-- ваши yml конфигурации для стека (если вы не использовали директорию help)
+- yml конфигурации для стека
 
      -  [filebeat.docker.yml](mystack/filebeat/filebeat.docker.yml)
      -  [simple_config.conf](mystack/logstash/pipeline/simple_config.conf)
